@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Forex Survivors</title>
+  <style>
+    body {margin:0;font-family:Arial, sans-serif;background:#0b0b0b;color:#fff;}
+    header {position:sticky;top:0;background:#111;padding:15px 30px;display:flex;justify-content:space-between;align-items:center;z-index:1000;}
+    header a {color:#fff;margin:0 10px;text-decoration:none;font-weight:bold;}
+    .btn {background:#00c853;color:#000;padding:12px 20px;border:none;border-radius:5px;font-weight:bold;cursor:pointer;}
+    section {padding:60px 20px;max-width:1100px;margin:auto;}
+    h1,h2,h3 {color:#00e676;}
+    .hero {text-align:center;padding:100px 20px;}
+    .cards {display:grid;grid-template-columns:repeat(auto-fit,minmax(250px,1fr));gap:20px;}
+    .card {background:#1a1a1a;padding:20px;border-radius:10px;}
+    footer {text-align:center;padding:20px;background:#111;}
+    input,textarea {width:100%;padding:10px;margin:10px 0;border:none;border-radius:5px;}
+  </style>
+</head>
+<body>
+
+<header>
+  <div><strong>FOREX SURVIVORS</strong></div>
+  <nav>
+    <a href="#">Home</a>
+    <a href="#about">About</a>
+    <a href="#books">Books</a>
+    <a href="#education">Education</a>
+    <a href="#contact">Contact</a>
+  </nav>
+</header>
+
+<section class="hero">
+  <h1>Stop Losing Money in Forex. Start Trading Like Smart Money.</h1>
+  <p>Master the exact strategy that combines Smart Money Concepts with Fundamental Analysis to understand the market with confidence.</p>
+  <button class="btn">Get My Book</button>
+</section>
+
+<section>
+  <h2>Why Most Traders Fail</h2>
+  <div class="cards">
+    <div class="card">You keep losing money with no clear strategy.</div>
+    <div class="card">You feel confused by indicators and signals.</div>
+    <div class="card">You don't understand how the market really moves.</div>
+  </div>
+</section>
+
+<section>
+  <h2>The Forex Survivors Method</h2>
+  <p>This method teaches you how to combine Smart Money Concepts with fundamental analysis to read the market like institutions.</p>
+</section>
+
+<section id="about">
+  <h2>About Forex Survivors</h2>
+  <p>I started as a beginner, losing trades and feeling confused. After studying how the market really works, I discovered how to combine fundamentals with smart money concepts. Now I teach traders how to survive and win.</p>
+</section>
+
+<section id="books">
+  <h2>Our Books</h2>
+  <div class="cards">
+    <div class="card">
+      <h3>Forex Survivors Strategy</h3>
+      <p>Learn how to trade using SMC and fundamentals.</p>
+      <button class="btn">Buy Now</button>
+    </div>
+    <div class="card">
+      <h3>Market Structure Mastery</h3>
+      <p>Understand how the market moves and where to enter.</p>
+      <button class="btn">Buy Now</button>
+    </div>
+  </div>
+</section>
+
+<section id="education">
+  <h2>Learn Forex</h2>
+  <p>Forex trading is the buying and selling of currencies. The market moves based on economic data, news, and institutional activity.</p>
+  <p>With Smart Money Concepts, you learn how banks and institutions manipulate price, giving you an edge.</p>
+</section>
+
+<section>
+  <h2>What Our Students Say</h2>
+  <div class="cards">
+    <div class="card">"This changed my understanding of trading completely."</div>
+    <div class="card">"I finally became consistent after using this method."</div>
+  </div>
+</section>
+
+<section>
+  <h2>Ready to
